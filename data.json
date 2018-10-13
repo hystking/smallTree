@@ -1,1 +1,100 @@
-[]
+[
+  {
+    "memo": "home",
+    "referenceImageName": "1",
+    "center": {
+      "x": 3.28,
+      "y": 0.0,
+      "z": -12.12
+    },
+    "rotation":{
+      "x": 0.0,
+      "y": 120,
+      "z": 0.0
+    }
+  },
+  {
+    "memo": "VR",
+    "referenceImageName": "7",
+    "center": {
+      "x": 9.34,
+      "y": 0.0,
+      "z": -1.82
+    },
+    "rotation":{
+      "x": 0.0,
+      "y": -90.0,
+      "z": 0.0
+    }
+  },
+  {
+    "memo": "LOG",
+    "referenceImageName": "2",
+    "center": {
+      "x": 11.10,
+      "y": 0.0,
+      "z": -12.50
+    },
+    "rotation":{
+      "x": 0.0,
+      "y": -90.0,
+      "z": 0.0
+    }
+  },
+  {
+    "memo": "sho",
+    "referenceImageName": "3",
+    "center": {
+      "x": 9.94,
+      "y": 0.0,
+      "z": -14.22
+    },
+    "rotation":{
+      "x": 0.0,
+      "y": -180.0,
+      "z": 0.0
+    }
+  },
+  {
+    "memo": "krkr",
+    "referenceImageName": "4",
+    "center": {
+      "x": 1.43,
+      "y": 0.0,
+      "z": -16.69
+    },
+    "rotation":{
+      "x": 0.0,
+      "y": -63.0,
+      "z": 0.0
+    }
+  },
+  {
+    "memo": "con",
+    "referenceImageName": "5",
+    "center": {
+      "x": 2.15,
+      "y": 0.0,
+      "z": -7.66
+    },
+    "rotation":{
+      "x": 0.0,
+      "y": -210.0,
+      "z": 0.0
+    }
+  },
+  {
+    "memo": "pod",
+    "referenceImageName": "6",
+    "center": {
+      "x": 1.14,
+      "y": 0.0,
+      "z": -2.79
+    },
+    "rotation":{
+      "x": 0.0,
+      "y": -60.0,
+      "z": 0.0
+    }
+  }
+]
